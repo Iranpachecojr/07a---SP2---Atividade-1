@@ -1,0 +1,15 @@
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\bin\Debug\net7.0\Proj_Atvidade.exe
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\bin\Debug\net7.0\Proj_Atvidade.deps.json
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\bin\Debug\net7.0\Proj_Atvidade.runtimeconfig.json
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\bin\Debug\net7.0\Proj_Atvidade.dll
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\bin\Debug\net7.0\Proj_Atvidade.pdb
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.csproj.AssemblyReference.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.AssemblyInfoInputs.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.AssemblyInfo.cs
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.csproj.CoreCompileInputs.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.dll
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\refint\Proj_Atvidade.dll
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.pdb
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\Proj_Atvidade.genruntimeconfig.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\CodBackEndAtiv\_SENAI\Proj_Atividade\obj\Debug\net7.0\ref\Proj_Atvidade.dll
